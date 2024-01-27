@@ -31,7 +31,7 @@ Viewing Commit History:
 
 Creating Branches:
 
-git branch branch_name`
+`git branch branch_name`
 
 Switching Branches:
 
